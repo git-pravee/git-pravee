@@ -46,8 +46,9 @@ Passionate about solving real-world problems with code. Focused on building scal
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=git-pravee&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-pravee&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=git-pravee&theme=radical" width="48%" />
 </p>
+
 
 ---
 
