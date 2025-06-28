@@ -16,11 +16,11 @@
 
 ## ✨ About Me
 
-- 🔧 Building **ScamShield** – an AI-powered scam job detector using Flask + ML
-- 💡 Exploring: `AI`, `Cybersecurity`, `Flask`, `Open Source`, `OOP`, `STL`
-- 📌 Practicing: `LeetCode`, `System Design`, `Debugging`, `Git`
-- 🧠 Interests: Startup culture, productivity, real-world problem solving
-- 🎯 Goal: Build tools that increase digital trust and improve lives
+- 🔧 Building **ScamShield** – an AI-powered scam job detector using Flask + ML  
+- 💡 Exploring: `AI`, `Cybersecurity`, `Flask`, `Open Source`, `OOP`, and `STL`  
+- 📌 Practicing: `LeetCode`, `System Design`, `Debugging`, and `Git`  
+- 🧠 Interests: Startup culture, productivity, real-world problem solving  
+- 🎯 Goal: To build tools that enhance digital trust and positively impact lives  
 
 ---
 
@@ -69,9 +69,17 @@
 
 | 💼 Project | 🔍 Description |
 |-----------|----------------|
-| 🔐 [ScamShield](https://github.com/git-pravee/scamdetector) | Scam job detection system using Flask, ML & keyword analysis |
-| 📘 [Ultimate Coding Foundation](https://github.com/git-pravee/ultimate-coding-foundation) | C++ & DSA learning roadmap with beginner-friendly examples |
-| 💡 [LeetCode Practice](https://github.com/git-pravee/leetcode) | Efficient C solutions for classic LeetCode problems |
+| 🔐 [ScamShield](https://github.com/git-pravee/scamdetector) | ⚠️ AI-powered job scam detector using Flask & Machine Learning |
+| 📘 [Ultimate Coding Foundation](https://github.com/git-pravee/ultimate-coding-foundation) | 📚 Beginner-friendly C++ & DSA roadmap with examples |
+| 💡 [LeetCode Practice](https://github.com/git-pravee/leetcode) | 🧠 Efficient C solutions to classic LeetCode challenges |
+
+---
+
+## 📅 Currently Working On
+
+- 🚧 Improving **ScamShield** with better ML accuracy  
+- ✍️ Writing content for `Ultimate Coding Foundation`  
+- 📖 Learning advanced System Design and Software Architecture  
 
 ---
 
